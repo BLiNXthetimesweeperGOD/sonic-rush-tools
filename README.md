@@ -5,7 +5,7 @@ Currently, only the map ripper is done. The following are required to use it:
 - pillow (for the image processing functionality)
 - ndspy (for the Nintendo DS ROM and NARC package handling)
 
-So do this:
+So run these in CMD:
 
 pip install pillow
 
